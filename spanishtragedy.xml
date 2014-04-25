@@ -1,2 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="editions.xsl"?>
+<TEI>
+<teiheader>
+<filedesc>
+<titleStmt>
+<title>The Spanish Tragedy</title>
+<author>Thomas Kyd</author>
 <respstmt>
 </respstmt>
+</titleStmt>
+<publicationStmt>
+<p>
+<date when="1587" calendar="Gregorian">1587</date>
+</p>
+</publicationStmt>
+<sourceDesc>
+</sourceDesc>
+</filedesc>
+</teiheader>
+<text>
+<body><!--play--></body>
+</text>
+</TEI>
+</xml>
